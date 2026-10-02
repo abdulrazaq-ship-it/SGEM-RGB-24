@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "SGEM-RGB-24: Authenticated RGB Image Encryption"
+type: software
+version: 1.0.0
+date-released: 2026-10-02
+authors:
+  - family-names: Razaq
+    given-names: A.
+  - family-names: Mustafa
+    given-names: H. Z.
+  - family-names: Khyzer
+    given-names: S.
+  - family-names: Alolaiyan
+    given-names: H.
+license: MIT
+repository-code: "https://github.com/abdulrazaq-ship-it/SGEM-RGB-24"
+url: "https://github.com/abdulrazaq-ship-it/SGEM-RGB-24"
